@@ -1,6 +1,6 @@
 {
-  "name": "@huanlin/temp-email",
-  "version": "1.0.0",
+  "name": "@huanlin/temp-email-service",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {

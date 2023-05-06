@@ -76,4 +76,4 @@ export async function getAllEmails(email: string): Promise<Email[]> {
 }
 
 // export {}
-getAllEmails('h059n6fu4m@iubridge.com').then((result) => console.log(result));
+// getAllEmails('h059n6fu4m@iubridge.com').then((result) => console.log(result));
