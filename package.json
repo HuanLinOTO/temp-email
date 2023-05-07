@@ -1,5 +1,5 @@
 {
-  "name": "@huanlin/temp-email-service",
+  "name": "@huanlin/temp-email",
   "version": "1.0.2",
   "main": "lib/index.js",
   "license": "MIT",
