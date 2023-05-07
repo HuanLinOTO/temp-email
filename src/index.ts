@@ -3,8 +3,6 @@ import axios from 'axios';
 
 export async function getTempEmail(maxRetries: number): Promise<string> {
 	const baseUrl = 'https://www.linshi-email.com/api/v1/refreshmessage';
-	const letters = 'abcdefghijklmnopqrstuvwxyz';
-	const numbers = '0123456789';
 	let email = '';
 	let response;
 	let retries = 0;
